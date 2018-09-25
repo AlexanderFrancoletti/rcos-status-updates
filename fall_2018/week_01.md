@@ -1,22 +1,10 @@
-## Last Week's Accomplishments
+Week_01
+=======
 
-> In this section, you can write about what you accomplished in the previous week.
+##Design
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
-
-## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
-
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+The majority of work being done for BASA.os currently is in research and design.
+Currently what is being worked on is the bare bones of the OS. We made the decision
+to use an already existing bootloader for simplicity. The remainder of our work time is 
+invested in individual research about the processes and requirements for a simple 
+kernel.
