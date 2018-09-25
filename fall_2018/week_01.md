@@ -1,7 +1,7 @@
 Week_01
 =======
 
-##Design
+## Design #######
 
 The majority of work being done for BASA.os currently is in research and design.
 Currently what is being worked on is the bare bones of the OS. We made the decision
