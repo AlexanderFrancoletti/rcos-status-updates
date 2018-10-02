@@ -11,3 +11,6 @@ can be performed.
 ## Anything Blocking?
 
 "Creating an OS is the most difficult challenge any programmer can take" - OSDev Wiki
+
+There are a lot of obvious roadblocks currently, aside from inexperience, there is a lack
+of knowledge in general, hence why a lot of our previous work is contained within research.
